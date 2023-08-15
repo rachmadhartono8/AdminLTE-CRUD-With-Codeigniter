@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `nama`, `foto`) VALUES
-(1, 'auwfar', 'f0a047143d1da15b630c73f0256d5db0', 'Achmad Chadil Auwfar', 'Koala.jpg'),
+(1, 'auwfar', 'f0a047143d1da15b630c73f0256d5db0', 'Rachmad Hartono', 'Koala.jpg'),
 (2, 'ozil', 'f4e404c7f815fc68e7ce8e3c2e61e347', 'Mesut ', 'profil2.jpg');
 
 -- --------------------------------------------------------
@@ -111,7 +111,7 @@ INSERT INTO `pegawai` (`id`, `nama`, `telp`, `id_kota`, `id_kelamin`, `id_posisi
 ('3', 'Mustofa Halim', '081330493322', 1, 1, 3, 1),
 ('4', 'Dody Ahmad Kusuma Jaya', '083854520015', 1, 1, 2, 1),
 ('5', 'Mokhammad Choirul Ikhsan', '085749535400', 3, 1, 2, 1),
-('7', 'Achmad Chadil Auwfar', '08984119934', 2, 1, 1, 1),
+('7', 'Rachmad Hartono', '08984119934', 2, 1, 1, 1),
 ('8', 'Rizal Ferdian', '087777284179', 1, 1, 3, 1),
 ('9', 'Redika Angga Pratama', '083834657395', 1, 1, 3, 1),
 ('1', 'Tolkha Hasan', '081233072122', 1, 1, 4, 1),
